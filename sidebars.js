@@ -24,6 +24,7 @@ module.exports = {
         'welcome/why-develop-on-edgeware',
         'welcome/roadmap',
         'welcome/changelog',
+        'welcome/legal-disclaimer',
       ],
     },
     {
@@ -381,7 +382,7 @@ module.exports = {
 
             {
               type: 'link',
-              label: 'Upgrade your node to ERUP-5', // The link label
+              label: 'Upgrade your node to v4.0.0', // The link label
               href: '/development/develop/smart-contracts/wasm-smart-contracts/tutorials/wasm-setup/upgrade-to-erup-5', // local URL
             },
 
